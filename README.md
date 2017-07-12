@@ -17,5 +17,5 @@ a linha de comando mostrada no bat para agendar o backup.
 
 # Componentes Utilizados
 
-- [Biblioteca JVCL 3.4](http://jvcl.sourceforge.net)
+- [Biblioteca JVCL 3.4](http://jvcl.delphi-jedi.org)
 - Componentes ADO (pré-instalados no Delphi)
