@@ -1,7 +1,7 @@
 # Delphi SQL Server Backup [![GPL licensed](https://img.shields.io/badge/license-GPL-blue.svg)](http://www.gnu.org/licenses/gpl-3.0)
 
 Aplicação de Backup/Restore de Bancos de Dados SQL Server, desenvolvida em Delphi XE 1.
-Ela utilizando os componentes ADO e comandos DDL(https://technet.microsoft.com/en-us/library/ff848799(v=sql.110).aspx) específicos do SQL Server
+Ela utilizando os componentes ADO e comandos [DDL](https://technet.microsoft.com/en-us/library/ff848799(v=sql.110).aspx) específicos do SQL Server
 para realizar o backup e restore de bancos de dados.
 
 A aplicação carrega as configurações de conexão e geração de backup de um arquivo [Conexao.ini](Conexao.ini)
